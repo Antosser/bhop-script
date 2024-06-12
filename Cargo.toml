@@ -1,0 +1,9 @@
+[package]
+name = "bhs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.79"
+inputbot = "0.6.0"
+inquire = "0.6.2"
