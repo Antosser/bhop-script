@@ -2,6 +2,10 @@
 name = "bhs"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "BHOP script for any game"
+repository = "https://github.com/Antosser/bhop-script"
+readme = "README.md"
 
 [dependencies]
 anyhow = "1.0.79"
