@@ -1,4 +1,4 @@
-Bunny-hop script that presses the `;` at an arbitrary speed while the `space` key is held.
+Bunny-hop script that presses the `;` at an arbitrary rate while the `space` key is held.
 
 # Installation
 
