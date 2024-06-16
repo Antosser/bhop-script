@@ -11,7 +11,7 @@ cargo install bhs
 
 ## Dependencies
 
-This program uses the `inputbot` dependency, so make sure to install [it's dependencies](https://github.com/obv-mikhail/InputBot?tab=readme-ov-file#build-dependencies) before installing.
+This program uses the `inputbot` dependency, so make sure to install [it's dependencies](https://github.com/obv-mikhail/InputBot?tab=readme-ov-file#build-dependencies) before installing if you are **using Linux** (Sigma).
 
 # Usage
 
